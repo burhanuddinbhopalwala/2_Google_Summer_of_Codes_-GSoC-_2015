@@ -16,7 +16,7 @@ The aim of this project is to develop an ImageJ plugin so that user( an iRODS cl
     GenericDialog class as build a plugin and plugin will bemacro - compatible
     with this or we can use it like traditional way
 
-### Implementation abstract:
+### Implementation details:
 
 -   Firstly , there are approx. 10 libararies in Jargon API’s each one has its own
     function so firstly we use Authenticate our connection with iRODSusing
